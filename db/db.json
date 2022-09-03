@@ -2,5 +2,20 @@
     {
         "title": "Test Title",
         "text": "Test text"
+    },
+    {
+        "title": "Test wiggle",
+        "text": "One test two test red test blue test",
+        "id": "0d99a6e6-c6f2-46ff-88f6-d3893cef1c16"
+    },
+    {
+        "title": "Newest Note power",
+        "text": "I wanted the note to end all notes and so now I create it!",
+        "id": "b1b8d2a3-903b-448e-bed6-cf055d9e65e8"
+    },
+    {
+        "title": "Checking function",
+        "text": "logging a function to work out delete method",
+        "id": "95638be4-dc21-4992-a91f-85d376046e80"
     }
 ]
